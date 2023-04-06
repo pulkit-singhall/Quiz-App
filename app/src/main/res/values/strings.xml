@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="head">Start the Quiz!</string>
+    <string name="ques1">Attempt Ques 1</string>
+    <string name="ques2">Attempt Ques 2</string>
+    <string name="ques3">Attempt Ques 3</string>
+    <string name="submit">Submit the Quiz</string>
+</resources>
